@@ -1,0 +1,92 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-08-22T01:03:46.801Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-08-22T01:03:30.801Z"
+    },
+    {
+      "id": 2,
+      "description": "Ignite RocketSseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2022-08-22T01:03:30.801Z"
+    },
+    {
+      "description": "Desenvolvimento App",
+      "price": 30000,
+      "type": "income",
+      "category": "Venda",
+      "createdAt": "2022-09-02T03:40:42.492Z",
+      "id": 3
+    },
+    {
+      "description": "Tennis Nike",
+      "price": 2000,
+      "type": "outcome",
+      "category": "Compra",
+      "createdAt": "2022-09-02T03:43:15.445Z",
+      "id": 4
+    },
+    {
+      "description": "X-tudo",
+      "price": 2,
+      "type": "outcome",
+      "category": "asdsadsa",
+      "createdAt": "2022-09-02T04:04:42.084Z",
+      "id": 5
+    },
+    {
+      "description": "hot dog",
+      "price": 12,
+      "type": "outcome",
+      "category": "Alimentação",
+      "createdAt": "2022-09-02T04:06:05.714Z",
+      "id": 6
+    },
+    {
+      "description": "teste",
+      "price": 12,
+      "type": "outcome",
+      "category": "et",
+      "createdAt": "2022-09-02T04:06:48.358Z",
+      "id": 7
+    },
+    {
+      "description": "novo",
+      "price": 12,
+      "type": "income",
+      "category": "teste",
+      "createdAt": "2022-09-02T04:06:58.432Z",
+      "id": 8
+    },
+    {
+      "description": "1",
+      "price": 1,
+      "type": "outcome",
+      "category": "1",
+      "createdAt": "2022-09-02T04:10:11.272Z",
+      "id": 9
+    },
+    {
+      "description": "2",
+      "price": 2,
+      "type": "outcome",
+      "category": "12",
+      "createdAt": "2022-09-02T04:11:49.782Z",
+      "id": 10
+    }
+  ]
+}
